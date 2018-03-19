@@ -4,8 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/buildScripts/src/test/index.test.js" line="12" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8c05041-652f-4203-8955-21ae1897dfe0" name="Default" comment="change world to worldd">
-      <change beforePath="" afterPath="$PROJECT_DIR$/buildScripts/src/test/.travis.yml" />
+    <list default="true" id="e8c05041-652f-4203-8955-21ae1897dfe0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -429,7 +428,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521270431125</updated>
       <workItem from="1521270432941" duration="6894000" />
-      <workItem from="1521287488243" duration="9559000" />
+      <workItem from="1521287488243" duration="9565000" />
     </task>
     <task id="LOCAL-00001" summary="add any tests">
       <created>1521449369306</created>
@@ -459,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521456717831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change world to worldd">
+      <created>1521458727559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521458727559</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -468,7 +474,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16453000" />
+    <option name="totallyTimeSpent" value="16459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="0" />
