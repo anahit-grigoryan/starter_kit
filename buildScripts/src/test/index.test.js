@@ -21,7 +21,7 @@ describe("index.html", () => {
         jsdom.env(index,function(err,window){
             if(err) throw err;
             const h1 = window.document.getElementsByTagName("h1")[0];
-            expect(h1.innerHTML).to.equal("Hello worlllld");
+            expect(h1.innerHTML).to.equal("Hello world");
             window.close();
         });
     });
